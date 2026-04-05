@@ -1,0 +1,8 @@
+# Web Requests for API Fetching
+requests>=2.31.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Data Visualization and Charting
+matplotlib>=3.8.0

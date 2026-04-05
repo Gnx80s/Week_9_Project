@@ -1,0 +1,11 @@
+# ------------------------------------------------------------------------------
+# Feodo Tracker Botnet C2 IP Blocklist - Local Test File
+# ------------------------------------------------------------------------------
+# Format: IP Address
+# The script will ignore these commented lines.
+# Feodo Tracker Test Data
+192.0.2.50
+192.0.2.51
+198.51.100.99
+203.0.113.10
+203.0.113.11
