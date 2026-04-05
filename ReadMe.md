@@ -62,8 +62,8 @@ OTX_API_KEY=your_key_here
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Gnx80s/Week_9_Projects.git
-cd ThreatFeedAggregator
+git clone https://github.com/Gnx80s/Week_9_Project.git
+cd Week_9_Project
 
 ```
 
@@ -125,6 +125,7 @@ Week_9_Project/
 
 ## Expected Console Output:
 
+<pre>
 [+] Fetching threat feeds...
 [+] Normalizing data...
 [+] Enriching with threat scoring...
@@ -135,6 +136,7 @@ Week_9_Project/
 [✓] Report: /.../output/reports/report_202X-XX-XX_XX-XX-XX.txt
 [+] Generating visualizations...
 [✓] Visualizations saved to: /.../output/visuals
+</pre>
 
 # Outputs
 
